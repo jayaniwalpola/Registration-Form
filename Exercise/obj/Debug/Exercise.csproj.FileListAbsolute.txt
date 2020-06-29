@@ -1,0 +1,9 @@
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.Form1.resources
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.csproj.GenerateResource.Cache
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\Jayani\Desktop\git\Exercise\Exercise\obj\Debug\Exercise.pdb
